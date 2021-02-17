@@ -22,5 +22,7 @@ Module Program
 		Dim dividir As Decimal
 		dividir = numero / numero2
 		Console.WriteLine(dividir)
+		Console.WriteLine("el programa termino")
+
 	End Sub
 End Module
