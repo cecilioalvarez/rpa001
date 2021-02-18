@@ -23,6 +23,8 @@ Module Program
 		dividir = numero / numero2
 		Console.WriteLine(dividir)
 		Console.WriteLine("el programa termino")
+		Console.WriteLine("si que termino")
+
 
 	End Sub
 End Module
