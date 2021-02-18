@@ -1,9 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <RootNamespace>Consola001</RootNamespace>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>Consola001.Program3</StartupObject>
   </PropertyGroup>
 
 </Project>
